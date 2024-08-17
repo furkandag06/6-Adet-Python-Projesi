@@ -1,0 +1,37 @@
+{
+    "income": [
+        {
+            "amount": 15.0,
+            "source": "i\u015f",
+            "date": "12.07.2023"
+        },
+        {
+            "amount": 100.0,
+            "source": "\u0130\u015f",
+            "date": "2024-08-15"
+        },
+        {
+            "amount": 100000.0,
+            "source": "\u0130\u015fler",
+            "date": "2024-08-15"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 20.0,
+            "category": "Harcama",
+            "date": "2024-08-15"
+        },
+        {
+            "amount": 20000.0,
+            "category": "gider",
+            "date": "2024-08-15"
+        },
+        {
+            "amount": 50000.0,
+            "category": "Fatura",
+            "date": "2024-08-15"
+        }
+    ],
+    "budget": 150000.0
+}
